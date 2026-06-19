@@ -1,6 +1,7 @@
 # Welcome, I'm Mariama!👋
 
 I am a cybersecurity student at the University of Colorado Denver, building hands-on skills in networking, Linux, Windows, security fundamentals, and cloud technologies.
+
 Cybersecurity Bootcamp Graduate from the University of Denver
 
 ## Currently learning:
