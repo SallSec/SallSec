@@ -15,7 +15,8 @@ Cybersecurity Bootcamp Graduate from the University of Denver
 - Security+ study groups
 - Open-source cybersecurity resources
 
-## Ask me about Security+ preparation!
+## Ask me about:
+- Security+ preparation
 
 ## Fun Fact: 
 When I'm not studying or working, you'll usually find me chasing sunsets in Colorado's mountains!
