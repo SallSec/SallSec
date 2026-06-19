@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome, I'm Mariama!👋
 
-<!--
-**SallSec/SallSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity student at the University of Colorado Denver, building hands-on skills in networking, Linux, Windows, security fundamentals, and cloud technologies.
+Cybersecurity Bootcamp Graduate from the University of Denver
 
-Here are some ideas to get you started:
+## Currently learning:
+- CompTIA Security+
+- Networking fundamentals
+- Git and GitHub
+- Hands-on cybersecurity labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking to collaborate on:
+- Beginner cybersecurity projects
+- Security+ study groups
+- Open-source cybersecurity resources
+
+## Ask me about Security+ preparation!
+
+## Fun Fact: 
+When I'm not studying or working, you'll usually find me chasing sunsets in Colorado's mountains!
